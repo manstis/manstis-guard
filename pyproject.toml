@@ -1,0 +1,6 @@
+[project]
+name = "manstis-guard"
+version = "0.1.0"
+description = "Dummy Guard by manstis"
+requires-python = ">=3.10"
+dependencies = ["llama-stack"]

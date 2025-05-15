@@ -1,3 +1,6 @@
 /.idea
 /venv
+/build
+
 *.iml
+*.egg-info
